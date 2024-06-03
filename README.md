@@ -1,6 +1,7 @@
 # sql_challenge
 
 Homework 9
+Inside Starter Code 
 
 --CREATE TABLES
 CREATE TABLE departments(
